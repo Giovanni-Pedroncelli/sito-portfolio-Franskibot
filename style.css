@@ -1,0 +1,43 @@
+body {
+  
+}
+
+#prim {
+  font-family: 'Bree Serif', serif;
+  text-align: center;
+  font-size: 100px;
+  color: #C14965;
+}
+
+#sec {
+    font-family: 'Charis SIL', serif;
+    text-align: center;
+    font-size: 40px;
+    color: #946E83;
+  }
+
+  #pianoforte1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .paragraph {
+    text-align: center;
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    color: #B38519;
+  }
+
+ .custom-bg {
+  background-color: #946E83;
+ }
+
+ .custom-bg .navbar-nav .nav-link {
+  color: #ffffff;
+ }
+
+ .custom-bg .navbar-brand {
+  font-family: 'PT Serif', serif;
+  font-size: 30px;
+ }
