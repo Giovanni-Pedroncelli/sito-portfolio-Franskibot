@@ -1,20 +1,8 @@
 body {
-  
+  background-image: url('pianoforte.jpg');
+  background-size: 100%;
 }
 
-#prim {
-  font-family: 'Bree Serif', serif;
-  text-align: center;
-  font-size: 100px;
-  color: #C14965;
-}
-
-#sec {
-    font-family: 'Charis SIL', serif;
-    text-align: center;
-    font-size: 40px;
-    color: #946E83;
-  }
 
   #pianoforte1 {
     display: block;
@@ -22,22 +10,26 @@ body {
     margin-right: auto;
   }
 
-  .paragraph {
+  .puno {
+    text-align: left;
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    color: #000000;
+  }
+
+  .pdue {
     text-align: center;
     font-family: 'Lora', serif;
     font-size: 20px;
-    color: #B38519;
+    color: #000000;
   }
 
- .custom-bg {
-  background-color: #946E83;
- }
 
  .custom-bg .navbar-nav .nav-link {
   color: #ffffff;
  }
 
  .custom-bg .navbar-brand {
-  font-family: 'PT Serif', serif;
+  font-family: 'Merriweather', serif;
   font-size: 30px;
  }
