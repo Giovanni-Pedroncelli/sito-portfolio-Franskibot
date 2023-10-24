@@ -1,14 +1,10 @@
 body {
   height: 4000px;
-
+  font-size: 1rem;
 }
 
 .logo {
   border-radius: 50%;
-}
-
-.container {
-
 }
 
 .gradient{
@@ -23,5 +19,21 @@ body {
 }
 
 #pianoforte {
-  width: 500px;
+  width: 700px;
+}
+
+#pianoforte2 {
+  width: 300px;
+}
+
+.feature{
+  color: #fff;
+}
+
+.feature ul li {
+  padding-left: 2rem;
+  background-image: url(1.png);
+  background-repeat: no-repeat;
+  line-height: 1.5rem;
+  margin-bottom: 1rem;
 }
