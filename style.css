@@ -3,65 +3,25 @@ body {
 
 }
 
-
-.lol{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 90%;
+.logo {
+  border-radius: 50%;
 }
 
-.navbar-brand {
-  font-family: 'Lusitana', serif;
+.container {
+
 }
 
-.nav-item {
-  font-family: 'Lusitana', serif;
+.gradient{
+  background-image: linear-gradient(120deg, black, grey);
 }
 
-.contenitore {
-  position: relative;
+.page-header {
+  margin-top: 4rem;
+  font-size: 1.25rem;
+  color: white;
+  font-family: 'EB Garamond', serif;
 }
 
-.testo {
-  font-size: 20px;
-  font-family: 'Elsie', serif;
-  position: absolute;
-  left: 13%;
-  top: 29%;
-  color: #ffffff;
-  padding: 20px;
-}
-
-.testodue {
-  font-size: 20px;
-  font-family: 'Elsie', serif;
-  text-align: center;
-  color: #ffffff;
-  padding: 20px;
-  margin-top: 80px;
-}
-
-.testotre {
-  font-size: 40px;
-  font-family: 'Elsie', serif;
-  text-align: center;
-  color: #ffffff;
-  margin-top: 30px;
-  
-}
-
-.videouno {
-  margin-top: 30px;
-  margin-left: 150px;
-}
-
-.videodue {
-  margin-top: 30px;
-  margin-left: 130px;
-}
-
-.videotre {
-  margin-top: 30px;
-  margin-left: 130px;
+#pianoforte {
+  width: 500px;
 }
