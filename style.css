@@ -23,25 +23,31 @@ body {
 }
 
 #pianoforte2 {
-  width: 50%;
+  width: 80%;
+}
+
+#testoeparagraphdue {
+  font-family: 'EB Garamond', serif;
 }
 
 .feature{
   color: #fff;
 }
 
-.feature ul li {
-  padding-left: 2rem;
-  background-image: url(1.png);
-  background-repeat: no-repeat;
-  line-height: 1.5rem;
-  margin-bottom: 1rem;
-}
+
 .navbar-nav .nav-link {
   color: #ffffff;
- }
+}
 
 
  .img-fluid {
   width: 80%;
- }
+}
+
+ .gallery {
+  background-color: linear-gradient(to right, #000000, #808080);
+}
+
+.gallery img {
+  border-radius: 20%;
+}
