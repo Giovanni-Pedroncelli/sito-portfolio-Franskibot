@@ -34,6 +34,10 @@ body {
   color: #fff;
 }
 
+.btn a {
+  text-decoration: none;
+  color: #ffffff;
+}
 
 .navbar-nav .nav-link {
   color: #ffffff;
@@ -50,4 +54,16 @@ body {
 
 .gallery img {
   border-radius: 5%;
+}
+
+.terzotesto {
+  font-family: 'EB Garamond', serif;
+  font-size: 30px;
+  color: #000000;
+}
+
+.altroparagraph {
+  font-family: 'EB Garamond', serif;
+  font-size: 20px;
+  color: #000000;
 }
