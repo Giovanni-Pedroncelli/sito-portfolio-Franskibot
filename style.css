@@ -1,5 +1,5 @@
 body {
-  height: 8000px;
+  height: 5000px;
   font-size: 1rem;
 }
 
@@ -163,4 +163,11 @@ body {
 .price-container {
   display: inline-block;
   text-align: center;
+}
+
+.footer {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 200px;
 }
