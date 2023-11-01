@@ -7,6 +7,10 @@ body {
   border-radius: 50%;
 }
 
+span.navbar-toggler-icon, button.navbar-toggler {
+  border-color: white;
+  border-width: 5px;
+}
 .gradient{
   background-image: linear-gradient(to right, #000000, #808080);
 }
