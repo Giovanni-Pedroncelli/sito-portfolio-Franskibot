@@ -26,6 +26,18 @@ span.navbar-toggler-icon, button.navbar-toggler {
   width: 100%;
 }
 
+.primawave {
+  margin: -1%;
+}
+
+.secondawave {
+  margin: -1%;
+}
+
+.terzawave {
+  margin: -1%;
+}
+
 #pianoforte2 {
   width: 80%;
 }
@@ -81,9 +93,11 @@ span.navbar-toggler-icon, button.navbar-toggler {
 }
 
 .quartasezionetesto {
+  font-size: 50px;
   text-align: left;
   font-family: 'EB Garamond', serif;
   color: #ffffff;
+  margin-bottom: 60px;
 }
 
 .gallery {
@@ -172,6 +186,12 @@ span.navbar-toggler-icon, button.navbar-toggler {
 .footer {
   background-color: #000000;
   color: #ffffff;
-  text-align: center;
-  margin-top: 200px;
+}
+
+.socialicons {
+  margin-bottom: 60px;
+}
+
+.copyright {
+  margin-top: 60px;
 }
