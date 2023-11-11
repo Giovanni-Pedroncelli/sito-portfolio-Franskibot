@@ -1,0 +1,4 @@
+Il sito è molto buono. Giusto un paio di cose che avresti potuto fare meglio:
+- la navbar è incompleta perché alcune sezioni (tipo Mi presento) non sono presenti tra i link
+- perché cliccando su Inizia ora ti porta al tuo Instagram? Sarebbe stato meglio scrivere href=#
+- perché hai girato i video in modalità specchio? Mi fa triggerare vedere le dita verso destra suonare le note basse e quelle verso sinistra suonare le note alte
